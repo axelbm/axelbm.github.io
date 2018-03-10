@@ -4,7 +4,8 @@
   "description": "axelbm.github.io",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon sources/app.js",
+    "compile": "node compile.js"
   },
   "repository": {
     "type": "git",

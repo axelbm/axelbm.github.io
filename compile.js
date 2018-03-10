@@ -3,4 +3,5 @@ var fs = require("fs")
 
 
 
-fs.writeFile("index.html", pug.compileFile("sources/views/index.pug", {"pretty":true})())
+fs.writeFileSync("index.html", pug.compileFile("sources/views/index.pug", {"pretty":true})())
+// fs.copyFileSync("sources/style.css", "style.css")

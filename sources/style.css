@@ -1,0 +1,46 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+header .jumbotron {
+  padding: 2rem;
+  margin-bottom: 0;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.error.jumbotron {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+footer .credit {
+  font-size: 14px;
+  font-weight: 600;
+  
+  margin-left: 14px;
+  color: DimGray;
+}
+
+
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
+}
+
+.subtitle {
+  text-align: right;
+}
+
+.section {
+  margin-top: 1rem;
+}
+
+.section-content {
+  border-left: 1px solid rgba(0,0,0,.1);
+}
