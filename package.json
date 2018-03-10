@@ -1,0 +1,19 @@
+{
+  "name": "axelbm",
+  "version": "1.0.0",
+  "description": "axelbm.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelbm/axelbm.github.io.git"
+  },
+  "author": "Axel Michaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelbm/axelbm.github.io/issues"
+  },
+  "homepage": "https://github.com/axelbm/axelbm.github.io#readme"
+}
